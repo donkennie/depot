@@ -3,7 +3,11 @@
 one:
   product: two
   cart: one
+  price: 1
+
 
 two:
   product: two
   cart: two
+  price: 1
+
